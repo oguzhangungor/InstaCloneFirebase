@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474449222354",
+    "firebase_url": "https://instaclonefirebase-d118c.firebaseio.com",
+    "project_id": "instaclonefirebase-d118c",
+    "storage_bucket": "instaclonefirebase-d118c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474449222354:android:48b97f2cafc46bac4aab0b",
+        "android_client_info": {
+          "package_name": "com.ogungor.nstaclonefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474449222354-72gsshjg59elqq4q7h6te71bl88i9opc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlLXF_d5GZ3KxKLlFMSsaXGTbtCBSPeqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474449222354-72gsshjg59elqq4q7h6te71bl88i9opc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
